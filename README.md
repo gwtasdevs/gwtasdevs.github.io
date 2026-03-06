@@ -1,7 +1,7 @@
 # Guild Wars TAS Tools
 
 TAS toolbox releases can be found [here](https://github.com/gwtasdevs/GWToolboxpp/releases)
-A new release will be created automatically whenever Toolbox is updated. Releases marked as `Pre-release`<span style="color: #9e6a03; border: 1px solid #9e6a03; border-radius: 624.938rem; padding: 0 0.5rem; line-height: 22px; font-size: 0.75rem;">Pre-release</span> correspond to updates to the Toolbox dev branch.
+A new release will be created automatically whenever Toolbox is updated. Releases marked as <span style="color: #9e6a03; border: 1px solid #9e6a03; border-radius: 624.938rem; padding: 0 0.5rem; line-height: 22px; font-size: 0.75rem;">Pre-release</span> correspond to updates to the Toolbox dev branch.
 
 ## Installation
 - Install [Toolbox](https://www.gwtoolbox.com) normally
