@@ -1,6 +1,6 @@
 # Guild Wars TAS Tools
 
-TAS toolbox releases can be found here: https://github.com/gwtasdevs/GWToolboxpp/releases
+TAS toolbox releases can be found [here](https://github.com/gwtasdevs/GWToolboxpp/releases)
 A new release will be creatred automatically whenever Toolbox is updated. Releases marked as Pre-release correspond to updates to the Toolbox dev branch.
 
 ## Installation
@@ -23,5 +23,5 @@ If you enable automatic updates for toolbox, then you should recieve automatic, 
 
 
 ## Advanced
-The code to modify `gwca.dll` and allow minipet targeting can be found here: https://github.com/gwtasdevs/GWCA
+The code to modify `gwca.dll` and allow minipet targeting can be found [here](https://github.com/gwtasdevs/GWCA)
 
