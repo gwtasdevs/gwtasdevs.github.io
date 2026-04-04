@@ -19,9 +19,12 @@ If you enable automatic updates for toolbox, then you should recieve automatic, 
 - Toolbox can be used in guild halls
 - Blocklists for `/useskill` are removed
 - Multiple `/useskill` is supported
+- Allow using chat commands when guild wars is not the focussed window
+- Custom color agents can be based on agents combat stance and weapon they are wielding
 - Useful TAS plugins are provided:
   * `SST`: allows writing in-game scripts
-  * `RawDialogs`: adds a command `/rawdialog <dialog_id>` that will send the raw dialog packet, allowing to send dialogs when the NPC is in combat.
+  * `RawDialogs`: adds a command `/rawdialog <dialog_id>` that will send the raw dialog packet, allowing to send dialogs when the NPC is in combat
+  * `DialogsWindow`: window to fast-take your favorite quests, even when NPC is in combat
 
 
 ## Advanced
