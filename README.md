@@ -20,7 +20,7 @@ If you enable automatic updates for Toolbox, then you should recieve automatic, 
 - Duping window updated to track aggro groups separately (useful for double duping)
 - Toolbox can be used in guild halls
 - Blocklists for `/useskill` are removed
-- Multiple `/useskill` is supported
+- Multiple `/useskill` is supported (type `/useskill n` multiple times, `/useskill 0|stop|off` to stop all)
 - Allow using chat commands when guild wars is not the focussed window
 - Useful TAS plugins are provided:
   * `AgentPopTimer`: displays the cooldown to spawn another agent (i.e. spawn your minipet or pop a ghost-in-the-box)
