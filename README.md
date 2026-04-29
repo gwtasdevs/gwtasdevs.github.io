@@ -36,7 +36,7 @@ If you enable automatic updates for Toolbox, then you should recieve automatic, 
   * `Slowload`: allows setting a hotkey to delay loading an instance until it is pressed
   * `SpeedrunScriptingTools`: allows writing in-game scripts
 
-## Additonal plugins
+## Additonal Plugins
 More useful plugins for speedruns can be found [here](https://github.com/gam415/GWToolboxPlugins).
 
 ## Advanced
